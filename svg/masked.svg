@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<!-- Edited manually by PrettyGoodName -->
+
+<svg
+   width="128mm"
+   height="128mm"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="masked.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title1">Campground Logo Masked</title>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.97386172"
+     inkscape:cx="121.1671"
+     inkscape:cy="173.02251"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="main">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999997"
+       spacingy="0.99999997"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="8"
+       enabled="true"
+       visible="true"
+       dotted="false"
+       snapvisiblegridlinesonly="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,2.982775,0,1 @ F,0,0,1,0,2.982775,0,1 @ F,0,0,1,0,2.982775,0,1"
+       radius="16"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect23"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       radius="0"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect22"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,3.9997987,0,1 @ F,0,0,1,0,4.0000837,0,1 @ F,0,0,1,0,0,0,1"
+       radius="2"
+       unit="px"
+       method="auto"
+       mode="F"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 64 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="128 : 64 : 1"
+       inkscape:persp3d-origin="64 : 42.666667 : 1"
+       id="perspective9" />
+    <mask
+       id="campground-mask">
+      <path
+         d="M 32.000286,31.999999 8.0002009,87.999682 H 120.00008 L 95.999997,31.999999 Z"
+         style="fill:#ffffff;stroke-width:0.264583"
+         id="campground-trapezoidmask"
+         inkscape:label="TrapezoidMask" />
+      <ellipse
+         style="fill:#000000;stroke-width:0.332127"
+         id="campground-tenttopcurve"
+         ry="17.231873"
+         rx="73.500031"
+         cy="24.690964"
+         cx="98.500168"
+         transform="skewY(-0.05174864)"
+         inkscape:label="TopCurve" />
+      <path
+         style="fill:#000000;stroke-width:0.264583"
+         d="m 19.999999,87.999997 12,-55.999998 12,55.999998 z"
+         id="campground-tententrance"
+         sodipodi:nodetypes="cccc"
+         inkscape:label="Parted"
+         inkscape:path-effect="#path-effect23"
+         inkscape:original-d="m 19.999999,87.999997 12,-55.999998 12,55.999998 z"
+         transform="matrix(1,0,0,1.0178571,-1.7252664e-8,11.428572)" />
+    </mask>
+  </defs>
+  <g
+     inkscape:label="Main"
+     inkscape:groupmode="layer"
+     id="main">
+    <path
+       style="fill:#ffffff;stroke-width:0.264583"
+       d="M 79.999998,87.999995 103.99999,103.99999 V 87.999995 Z"
+       id="campground-speechbubblearrow"
+       inkscape:label="SpeechBubbleArrow"
+       transform="matrix(1.8247901,0,0,2.1860492,-80.778156,-116.31827)" />
+    <path
+       d="M 32.000286,31.999999 8.0002009,87.999682 H 120.00008 L 95.999997,31.999999 Z"
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="campground-trapezoid"
+       inkscape:label="Trapezoid"
+       mask="url(#campground-mask)" />
+  </g>
+  <metadata
+     id="metadata1">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:title>Campground Logo Masked</dc:title>
+        <dc:date>03/10/2026 (US date format)</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>PrettyGoodName</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>PrettyGoodName</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>PrettyGoodName</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>English</dc:language>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>logo logomark brand branding icon favicon</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:identifier>campground-logo-original</dc:identifier>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

@@ -1,6 +1,6 @@
-### Welcome to the Campground branding page
+### Campground branding
 
-This is a pretty simple repository but feel free to look around! (FYI we use the font [Outfit](https://fonts.google.com/specimen/Outfit))
+This repository contains Campground brand logos and other images.
 
 ![alt text](full-color/svg/Wordmark.svg)
 
